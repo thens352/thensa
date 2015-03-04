@@ -3,7 +3,7 @@
  * 
  * Created by lisah0 on 2012-02-24
  */
-package com.blogspot.ehamutcu.barcodereader;
+package com.thensa.barcodereader;
 
 import java.io.IOException;
 

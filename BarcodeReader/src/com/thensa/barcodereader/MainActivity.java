@@ -1,4 +1,6 @@
-package com.blogspot.ehamutcu.barcodereader;
+package com.thensa.barcodereader;
+
+import com.blogspot.ehamutcu.barcodereader.R;
 
 import net.sourceforge.zbar.Config;
 import net.sourceforge.zbar.Image;
