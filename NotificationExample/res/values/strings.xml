@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationExample</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notification">Notify</string>
+    <string name="title">Title</string>
+    <string name="heading">Subject</string>
+    <string name="body">Body</string>
+    <string name="create">Create Notification</string>
+
+</resources>
